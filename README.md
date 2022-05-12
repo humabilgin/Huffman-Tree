@@ -28,11 +28,10 @@ Project works as a C console application, a compiler is enough to run it!
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 ![Usage Example][usage-ex]
 
 
-
-<!-- CONTRIBUTING -->
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
