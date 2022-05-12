@@ -64,4 +64,4 @@ Project Link: [https://github.com/humabilgin/Huffman-Tree](https://github.com/hu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [huffman-tree]: https://github.com/humabilgin/Huffman-Tree/blob/main/huffmantree.png
-[usage-ex]: https://github.com/humabilgin/Huffman-Tree/blob/main/usage_ex.PNG
+[usage-ex]: https://github.com/humabilgin/Huffman-Tree/blob/main/usage_ex.png
