@@ -28,7 +28,7 @@ Project works as a C console application, a compiler is enough to run it!
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-![Usage Example][usage_ex]
+![Usage Example][usage-ex]
 
 
 
@@ -63,6 +63,5 @@ Project Link: [https://github.com/humabilgin/Huffman-Tree](https://github.com/hu
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [huffman-tree]: https://github.com/humabilgin/Huffman-Tree/blob/main/huffmantree.png
-[usage_ex]: https://github.com/humabilgin/Huffman-Tree/blob/main/usage_ex.PNG
+[usage-ex]: https://github.com/humabilgin/Huffman-Tree/blob/main/usage_ex.PNG
