@@ -13,10 +13,9 @@ Huffman coding is a lossless data compression algorithm. Common way to build a H
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-![Huffman Tree](/Huffman-Tree/huffmantree.png)
 [![Huffman Tree][huffman-tree]]
 
-### Built With
+## Built With
 
 * [C](https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-170)
 
