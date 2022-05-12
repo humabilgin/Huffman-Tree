@@ -13,8 +13,8 @@ Huffman coding is a lossless data compression algorithm. Common way to build a H
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-![Alt text](/Huffman-Tree/huffmantree.png)
-
+![Huffman Tree](/Huffman-Tree/huffmantree.png)
+[![Huffman Tree][huffman-tree]]
 
 ### Built With
 
@@ -65,4 +65,4 @@ Project Link: [https://github.com/humabilgin/Huffman-Tree](https://github.com/hu
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[huffman-tree]: https://github.com/humabilgin/Huffman-Tree/blob/main/huffmantree.png
